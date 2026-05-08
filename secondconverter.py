@@ -1,5 +1,5 @@
 # secondconverter.py
-# Translate seconds into a more readable hours, minutes, and seconds
+# Translate seconds into a more readable hours, minutes, and seconds.
 
 
 # Explains on the terminal (via the print function) what this program does.
